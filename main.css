@@ -1,0 +1,33 @@
+h1 {
+	color: #ffffff;
+	text-align: center;
+	font-size: 125px;
+	font-family: Impact, Charcoal, sans-serif
+	outline-style: solid;
+	outline-color: #0032ff;
+	outline-width: 50px;
+	text-decoration: underline;
+}
+
+video {
+	object-position: ;
+}
+
+.button {
+	object-position: center;
+	background-color: #2240B8;
+	border: none;
+	padding: 15px 32px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	outline-style: solid;
+	outline-color: white;
+	outline-width: 2px;
+	}
+
+.button2 {
+	text-align: center;
+	}
